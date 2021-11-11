@@ -21,3 +21,7 @@ Lasercutting is surprisingly cheap - I got offers for manufacturing in small ser
 - 4x M3 Heatsets + M3 screws for the igus chain mount
 - 2x M3 Heatsets + M3 screws for the belt chain mount
 
+# Mounting
+
+![stl_mounting.png](stl_mounting.png)
+
