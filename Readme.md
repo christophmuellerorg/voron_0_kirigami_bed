@@ -14,10 +14,10 @@ Lasercutting is surprisingly cheap - I got offers for manufacturing in small ser
 
 I only did a small prototype run and will not be able to sell it myself, however there are a few Voron related shops that started stocking it:
 
-- (Deepfriedhero)[https://deepfriedhero.in/products/voron-v0-1-kirigami-bed-by-christoph-muller] (US)
-- (Fabreeko)[https://www.fabreeko.com/products/voron-v0-1-kirigami-bed-by-whoppingpochard] (US)
+- [Deepfriedhero](https://deepfriedhero.in/products/voron-v0-1-kirigami-bed-by-christoph-muller) (US) 
+- [Fabreeko](https://www.fabreeko.com/products/voron-v0-1-kirigami-bed-by-whoppingpochard) (US)
 
-I will add additional suppliers with a channel on the Voron discord as the bed becomes available - please contact me on discord or create a pull request.
+I will add additional suppliers _with a channel on the Voron discord_ - please contact me on discord or create a pull request.
 
 # Kiriwhat?
 
