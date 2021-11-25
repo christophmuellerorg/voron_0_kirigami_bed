@@ -1,3 +1,5 @@
+![kirigami.jpg](kirigami.jpg)
+
 ![kirigami_bed.png](kirigami_bed.png)
 
 ![kirigami_bed_insitu.png](kirigami_bed_insitu.png)
