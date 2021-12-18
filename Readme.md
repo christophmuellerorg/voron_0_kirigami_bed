@@ -20,6 +20,7 @@ I only did a small prototype run and will not be able to sell it myself, however
 - [Fabreeko](https://www.fabreeko.com/products/voron-v0-1-kirigami-bed-by-whoppingpochard) (US)
 - [3dmakerparts](https://3dmakerparts.com/products/voron-0-1-kirigami-bed) (US)
 - [Printyplease](https://www.printyplease.uk/V01KGB) (UK)
+- [Lecktor](https://lecktor.com/en/v0-buildplate/905-kirigami-bed.html) (EU)
 
 I will add additional suppliers _with a vendor role on the Voron discord_ - please contact me on discord or create a pull request with your discord ID.
 
