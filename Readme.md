@@ -44,3 +44,6 @@ This means you are allowed to modify and share the part under either license, as
 
 ![stl_mounting.png](stl_mounting.png)
 
+# Versions
+- V2: added a cutout for the thermal fuse
+- V3: slots instead of holes for the bed springs, allowing to adjust the Y offset over a 3mm range to support V0.0 as well as the sherpa mini mod. 
