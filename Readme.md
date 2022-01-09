@@ -28,7 +28,7 @@ I will add additional suppliers _with a vendor role on the Voron discord_ - plea
 
 The sheet metal part is available under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) AND [GPL V3.0](https://www.gnu.org/licenses/gpl-3.0.de.html). The plastic parts are partially derived from the existing Voron parts and hence follow the same License, [GPL V3.0](https://www.gnu.org/licenses/gpl-3.0.de.html). 
 
-This means you are allowed to modify and share the part under either license, as long as you credit me with a link to this Github repository. You are allowed to produce and sell the part without any royality cost, a donation on [vorondesign.com](https://vorondesign.com) to fund future development of the Voron project is however appreciated.
+This means you are allowed to modify and share the sheet metal part under either license, as long as you credit me with a link to this Github repository. You are allowed to produce and sell the part without royalties, a donation on [vorondesign.com](https://vorondesign.com) to fund future development of the Voron project is however appreciated.
 
 # Kiriwhat?
 
