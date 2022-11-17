@@ -50,3 +50,8 @@ This means you are allowed to modify and share the sheet metal part under either
 # Versions
 - V2: added a cutout for the thermal fuse
 - V3: slots instead of holes for the bed springs, allowing to adjust the Y offset over a 3mm range to support V0.0 as well as the sherpa mini mod. 
+
+# Installation
+The guys from Maple Leaf Makers made a nice tutorial on how to convert the stock bed to Kirigami.
+
+[![Video tutorial to convert the stock bed to Kirigami](https://img.youtube.com/vi/eOnNvhircn8/0.jpg)](https://www.youtube.com/watch?v=eOnNvhircn8)
