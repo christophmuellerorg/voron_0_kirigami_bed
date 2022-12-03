@@ -1,8 +1,8 @@
-![kirigami.jpg](kirigami.jpg)
+![kirigami.jpg](Images/kirigami.jpg)
 
-![kirigami_bed.png](kirigami_bed.png)
+![kirigami_bed.png](Images/kirigami_bed.png)
 
-![kirigami_bed_insitu.png](kirigami_bed_insitu.png)
+![kirigami_bed_insitu.png](Images/kirigami_bed_insitu.png)
 
 # What is this?
 
@@ -16,10 +16,10 @@ Lasercutting is surprisingly cheap - I got offers for manufacturing in small ser
 
 I only did a small prototype run and will not be able to sell it myself, however there are a few Voron related shops that started stocking it:
 
-- [Deepfriedhero](https://deepfriedhero.in/products/voron-v0-1-kirigami-bed-by-christoph-muller) (US) 
-- [Fabreeko](https://www.fabreeko.com/products/voron-v0-1-kirigami-bed-by-whoppingpochard) (US)
+- [Deepfriedhero](https://dfh.fm/products/kirigami-beds?variant=43382871556318) (US) 
+- [Fabreeko](https://www.fabreeko.com/products/voron-v0-1-kirigami-bed-kit-by-ldo?_pos=1&_sid=dece420eb&_ss=r&variant=43178853531903) (US)
 - [3dmakerparts](https://3dmakerparts.com/products/voron-0-1-kirigami-bed) (US)
-- [Printyplease](https://www.printyplease.uk/V01KGB) (UK)
+- [Printyplease](https://www.printyplease.uk/LDOKiri) (UK)
 - [Lecktor](https://lecktor.com/en/v0-buildplate/905-kirigami-bed.html) (EU)
 - [Fermio Labs](https://fermio.xyz/fermio-labs-gmbh/voron0-v0.1-kirigami/) (EU)
 - [Unique Prints](https://uniqueprints.shop/shop/buildplate/kirigami-bed-upgrade-for-voron-v0-1/) (AU)
@@ -45,7 +45,7 @@ This means you are allowed to modify and share the sheet metal part under either
 
 # Mounting
 
-![stl_mounting.png](stl_mounting.png)
+![stl_mounting.png](Images/stl_mounting.png)
 
 # Versions
 - V2: added a cutout for the thermal fuse
