@@ -1,8 +1,4 @@
-![kirigami.jpg](Images/kirigami.jpg)
-
-![kirigami_bed.png](Images/kirigami_bed.png)
-
-![kirigami_bed_insitu.png](Images/kirigami_bed_insitu.png)
+![stealth_beta.png](Images/stealth_beta.png)
 
 # What is this?
 
