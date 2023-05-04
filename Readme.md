@@ -1,12 +1,7 @@
-![stealth_beta.png](Images/stealth_beta.png)
-
 # What is this?
 
-A laser cut and bent single piece bed concept, trying to implement a lightweight and stiff bed with full access to the mounting screws similar to the flatbed concept, but ditching the printed plastic parts
-
-# Isnt't this expensive?
-
-Lasercutting is surprisingly cheap - I got offers for manufacturing in small series for prices similar to the cast and machined bed which is mounted on top. Note that additional surface treatment steps will add to the cost.
+![stealth_beta.png](Images/stealth_beta.png)
+A laser cut and bent single piece bed concept, trying to implement a lightweight and stiff bed with full access to the mounting screws.
 
 # Where can I get it? 
 
@@ -22,6 +17,10 @@ I only did a small prototype run and will not be able to sell it myself, however
 
 I will add additional suppliers _with a vendor role on the Voron discord_ - please contact me on discord or create a pull request with your discord ID.
 
+# Which plastic parts do I need to print?
+ 
+![stealth_beta.png](Images/parts.png)
+
 # License
 
 The sheet metal part is available under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) AND [GPL V3.0](https://www.gnu.org/licenses/gpl-3.0.de.html). The plastic parts are partially derived from the existing Voron parts and hence follow the same License, [GPL V3.0](https://www.gnu.org/licenses/gpl-3.0.de.html). 
@@ -35,9 +34,9 @@ This means you are allowed to modify and share the sheet metal part under either
 # BOM
 - 1x Kirigami Bed
 - 8x M2x4 to mount the bed to the carriages
-- 4x M3 Heatsets + 4x M3 screws for the leadscrew mount
-- 4x M3 Heatsets + M3 screws for the igus chain mount
-- 2x M3 Heatsets + M3 screws for the belt chain mount
+- 4x M3 Heatsets + 4x M3x6 screws for the leadscrew mount
+- 4x M3 Heatsets + 2 M3x6 screws for the chain mount
+- 1x M3 Heatset + 1 M3x6 screw for the wire guide
 
 # Mounting
 
