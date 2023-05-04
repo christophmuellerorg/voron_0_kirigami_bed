@@ -39,10 +39,6 @@ This means you are allowed to modify and share the sheet metal part under either
 - 4x M3 Heatsets + 2 M3x6 screws for the chain mount
 - 1x M3 Heatset + 1 M3x6 screw for the wire guide
 
-# Mounting
-
-![stl_mounting.png](Images/stl_mounting.png)
-
 # Versions
 - V2: added a cutout for the thermal fuse
 - V3: slots instead of holes for the bed springs, allowing to adjust the Y offset over a 3mm range to support V0.0 as well as the sherpa mini mod. 
