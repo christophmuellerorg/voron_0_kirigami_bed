@@ -14,7 +14,7 @@ I only did a small prototype run and will not be able to sell it myself, however
 - [Lecktor](https://lecktor.com/en/v0-buildplate/905-kirigami-bed.html) (EU)
 - [Fermio Labs](https://fermio.xyz/fermio-labs-gmbh/voron0-v0.1-kirigami/) (EU)
 - [Unique Prints](https://uniqueprints.shop/shop/buildplate/kirigami-bed-upgrade-for-voron-v0-1/) (AU)
-- [Zen 3d](https://shop.zen3d.hu/termek/ldo-kirigami-bed-mount-kit/) (EU)
+- [Zen3D](https://shop.zen3d.eu/ldo-kirigami-bed-mount-kit) (EU)
 
 I will add additional suppliers _with a vendor role on the Voron discord_ - please contact me on discord or create a pull request with your discord ID.
 
